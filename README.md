@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm  Şafak Şenel 👋
+# Hi there, I'm Şafak Şenel 👋
 ### *Python Engineer • Data Scientist • Automation & Distributed Scraping Specialist*
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=650&lines=Real-Time+Computer+Vision+%26+Video+Analytics;Agentic+AI+%26+Multi-Agent+Systems+(LangGraph);Python+3.14+%26+Modern+Async+Architecture;22+Fine-Tuned+Turkish+BERT+Models+(FLO+Group);DuckDB+OLAP+%26+Production+MLOps+APIs;Distributed+Web+Scraping+%26+Automation)](https://git.io/typing-svg)
@@ -12,7 +12,7 @@
   <a href="https://www.kaggle.com/afakenel">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
-  <a href="https://github.com/safaksenel/portfolio">
+  <a href="https://portfolio-q663.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio%20Website-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:safaksenel61@gmail.com">
@@ -101,8 +101,8 @@
       <p><b>Tech:</b> <code>Python 3.14</code>, <code>Watchdog</code>, <code>JSON Config</code>, <code>Pytest</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🌐 <a href="https://github.com/safaksenel/portfolio">Developer Portfolio Monorepo</a></h3>
-      <p>Awwwards-inspired personal portfolio monorepo built with Next.js 16, React 19, Tailwind CSS v4, Motion, Django 6.1, and Supabase PostgreSQL 17.</p>
+      <h3>🌐 <a href="https://portfolio-q663.vercel.app">Developer Portfolio Website</a> (<a href="https://github.com/safaksenel/portfolio">Code</a>)</h3>
+      <p>Awwwards-inspired personal portfolio platform built with Next.js 16, React 19, Tailwind CSS v4, Motion, Django 6.1, and Supabase PostgreSQL 17.</p>
       <p><b>Tech:</b> <code>Next.js 16</code>, <code>Django 6.1</code>, <code>Supabase</code>, <code>Tailwind v4</code></p>
     </td>
   </tr>
