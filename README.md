@@ -15,8 +15,8 @@
   <a href="https://portfolio-q663.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio%20Website-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:safaksenel61@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:safaksenel61@gmail.com" title="safaksenel61@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: safaksenel61@gmail.com" />
   </a>
 </p>
 
@@ -27,6 +27,7 @@
 ### 👨‍💻 About Me / Hakkımda
 
 - 🔭 **Specialization:** Machine Learning, Data Engineering, NLP (BERT & Intel OpenVINO), Agentic AI (LangGraph & DuckDB OLAP), Computer Vision (ByteTRACK), and production MLOps systems.
+- 📬 **Direct Contact / E-Posta:** [safaksenel61@gmail.com](mailto:safaksenel61@gmail.com)
 - 🏅 **Certified Data Engineer:** Certified as **Associate Data Engineer** by **DataCamp** (`DEA0011477137123`) covering advanced SQL architecture, ETL pipeline engineering, and exploratory data analysis.
 - 🧠 **Enterprise NLP Experience:** Trained & deployed **22 dual-layer Turkish BERT models** for **FLO Group** customer feedback triaging, optimized with **Intel OpenVINO** for 4x CPU inference speedup (F1: 0.892).
 - 🏆 **Datathon Solution:** Built an end-to-end multi-modal machine learning pipeline for the Google & BTK Akademi **Datathon 2026** combining tabular student data with mentor NLP text via Stacking Ensemble regression (RMSE: 0.1418).
