@@ -33,7 +33,8 @@
 - 🏆 **Datathon Solution:** Built an end-to-end multi-modal machine learning pipeline for the Google & BTK Akademi **Datathon 2026** combining tabular student data with mentor NLP text via Stacking Ensemble regression (RMSE: 0.1418).
 - 🤖 **Agentic AI & Analytics:** Architecting stateful **LangGraph multi-agent copilots** with **DuckDB memory OLAP** engines, AST-verified Python execution sandboxes, and autonomous self-healing reflection loops.
 - 👁️ **Computer Vision & Video Analytics:** Architecting real-time edge vision pipelines with **ByteTRACK 2-stage IoU tracking**, polygon **geofencing intrusion alerts**, and 20 Hz **WebSocket telemetry streaming**.
-- 🎓 **Continuous Learning & Systems:** Admitted to **Ecole 42 Istanbul Core Curriculum (Ana Eğitim)** starting August 3, 2024 (deep dive into C & Python, low-level architecture, dynamic memory & data structures), Google Advanced Data Analytics Professional Certified, and Google Project Management (Scrum Master).
+- 🎓 **Ongoing Education (Active):** Currently enrolled in **Ecole 42 Istanbul Core Curriculum (Ana Eğitim)** starting August 3, 2024 (deep dive into C & Python systems programming, dynamic memory, low-level architecture & data structures).
+- 🎓 **Google YZTA Graduate:** Successfully graduated from the **Google Yapay Zeka ve Teknoloji Akademisi** program (Bootcamp completion, 10/10 Coursera certificates, 17/17 Moodle modules, Scrum Master team leadership).
 
 ---
 
