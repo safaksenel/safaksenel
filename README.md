@@ -3,7 +3,7 @@
 # Hi there, I'm Şafak Şenel 👋
 ### *Data Scientist • Machine Learning Engineer • Computer Engineer*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=650&lines=Data+Scientist+%26+Computer+Engineer;22+Fine-Tuned+Turkish+BERT+Models+(FLO+Group);YZTA+5.0+Datathon+Top+%2510+Nationwide;Agentic+AI+%26+DuckDB+OLAP+(LangGraph);Real-Time+Computer+Vision+%26+Video+Analytics;Production+MLOps+APIs+%26+Python+3.14)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=650&lines=Data+Scientist+%26+Computer+Engineer;DataCamp+Associate+Data+Engineer;Google+Advanced+Data+Analytics+Professional;22+Fine-Tuned+Turkish+BERT+Models+(FLO+Group);YZTA+5.0+Datathon+Top+%2510+Nationwide;Agentic+AI+%26+DuckDB+OLAP+(LangGraph);Real-Time+Computer+Vision+%26+Video+Analytics;Production+MLOps+APIs+%26+Python+3.14)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/%C5%9Fafak-%C5%9Fenel-70a633319/">
@@ -26,13 +26,13 @@
 
 ### 👨‍💻 About Me / Hakkımda
 
-- 🔭 **Specialization:** Machine Learning, NLP (BERT & Intel OpenVINO), Agentic AI (LangGraph & DuckDB OLAP), Computer Vision (ByteTRACK), and production MLOps systems.
+- 🔭 **Specialization:** Machine Learning, Data Engineering, NLP (BERT & Intel OpenVINO), Agentic AI (LangGraph & DuckDB OLAP), Computer Vision (ByteTRACK), and production MLOps systems.
+- 🏅 **Certified Data Engineer:** Certified as **Associate Data Engineer** by **DataCamp** (`DEA0011477137123`) covering advanced SQL architecture, ETL pipeline engineering, and exploratory data analysis.
 - 🧠 **Enterprise NLP Experience:** Trained & deployed **22 dual-layer Turkish BERT models** for **FLO Group** customer feedback triaging, optimized with **Intel OpenVINO** for 4x CPU inference speedup (F1: 0.892).
 - 🏆 **Competition Achievement:** Ranked in the **Top 10% nationwide** in the Google & BTK Akademi **Datathon 2026** with a multi-modal tabular + NLP Stacking Ensemble.
 - 🤖 **Agentic AI & Analytics:** Architecting stateful **LangGraph multi-agent copilots** with **DuckDB memory OLAP** engines, AST-verified Python execution sandboxes, and autonomous self-healing reflection loops.
 - 👁️ **Computer Vision & Video Analytics:** Architecting real-time edge vision pipelines with **ByteTRACK 2-stage IoU tracking**, polygon **geofencing intrusion alerts**, and 20 Hz **WebSocket telemetry streaming**.
-- ⚡ **Automation & Crawling:** Architecting autonomous scrapers bypassing Cloudflare & Turnstile shields using Python 3.14, Selenium 4, Playwright, and Crawl4AI.
-- 🎓 **Continuous Learning:** Pair-programming with modern AI tooling, clean architecture, and type-safe systems (Pydantic v2, TypeScript).
+- 🎓 **Continuous Learning:** Google Advanced Data Analytics Professional Certified, Google Project Management (Scrum Master), and Ecole 42 algorithmic training.
 
 ---
 
@@ -44,6 +44,7 @@
 |---|---|
 | **Core Languages** | `Python 3.14`, `TypeScript`, `JavaScript`, `SQL` |
 | **Data Science & ML** | `DuckDB OLAP`, `PyTorch`, `HuggingFace Transformers`, `BERT`, `Intel OpenVINO`, `Scikit-learn`, `LightGBM`, `CatBoost`, `XGBoost`, `Optuna`, `Pandas`, `NumPy`, `SHAP` |
+| **Data Engineering** | `Data Modeling`, `ETL Pipelines`, `PostgreSQL 17`, `Exploratory Data Analysis (EDA)`, `Supabase Pooler` |
 | **Agentic AI & LLMs** | `LangGraph`, `LangChain`, `Multi-Agent State Graphs`, `Self-Healing Loops`, `AST Sandboxing` |
 | **Computer Vision & Video Analytics** | `OpenCV`, `ByteTRACK Algorithm`, `Geofencing / Ray-Casting`, `Real-Time Video Streaming (MJPEG/WebSockets)` |
 | **Backend & APIs** | `FastAPI`, `Django 6.1`, `Django Ninja`, `Pydantic v2`, `Psycopg 3`, `RESTful APIs`, `WebSockets` |
@@ -52,6 +53,19 @@
 | **Databases & Cloud** | `Supabase (PostgreSQL 17)`, `Redis`, `DuckDB`, `Docker`, `Vercel Serverless`, `GitHub Actions CI` |
 
 </div>
+
+---
+
+### 📜 Verified Credentials & Accreditations
+
+- 🏅 **Associate Data Engineer** — [DataCamp Official Verification](https://www.datacamp.com/certificate/DEA0011477137123) (`DEA0011477137123`) — *Advanced Data Management, Exploratory Analysis (EDA), SQL Architecture & ETL Pipelines*
+- 🎓 **Google Advanced Data Analytics Professional Certificate** — [Coursera / Google Badge](https://www.coursera.org/account/accomplishments/badge/wvTvEoBsQ6u07xKAbIOrdQ) — *Predictive Modeling, Statistical Hypothesis Testing, Machine Learning & Tableau Analytics*
+- 🎓 **Google Data Analytics Professional Certificate** — Google / Coursera — *SQL, R Programming, Data Cleaning & Visual Storytelling*
+- 🐍 **100 Days of Code: Complete Python Pro Bootcamp** — Udemy — *Advanced Python Scripting, Web Scraping (Selenium, BeautifulSoup), REST APIs, SQL/PostgreSQL & Tkinter GUI*
+- 📊 **Data Scientist with Python Career Track** — DataCamp — *Scikit-learn, Feature Engineering, Supervised/Unsupervised Learning*
+- 🤖 **Google AI Essentials & Prompting Essentials Specializations** — Google / Coursera
+- 📋 **Google Project Management Professional Certificate** — Google / Coursera *(Agile & Scrum Leadership)*
+- 🏆 **BTK Akademi Veri Bilimi ve Makine Öğrenimi Başarı Sertifikaları** — BTK Akademi
 
 ---
 
