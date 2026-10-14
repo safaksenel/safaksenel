@@ -32,7 +32,7 @@
 - 🏆 **Competition Achievement:** Ranked in the **Top 10% nationwide** in the Google & BTK Akademi **Datathon 2026** with a multi-modal tabular + NLP Stacking Ensemble.
 - 🤖 **Agentic AI & Analytics:** Architecting stateful **LangGraph multi-agent copilots** with **DuckDB memory OLAP** engines, AST-verified Python execution sandboxes, and autonomous self-healing reflection loops.
 - 👁️ **Computer Vision & Video Analytics:** Architecting real-time edge vision pipelines with **ByteTRACK 2-stage IoU tracking**, polygon **geofencing intrusion alerts**, and 20 Hz **WebSocket telemetry streaming**.
-- 🎓 **Continuous Learning:** Google Advanced Data Analytics Professional Certified, Google Project Management (Scrum Master), and Ecole 42 algorithmic training.
+- 🎓 **Continuous Learning & Systems:** Admitted to **Ecole 42 Istanbul Core Curriculum (Ana Eğitim)** starting August 3, 2024 (deep dive into C & Python, low-level architecture, dynamic memory & data structures), Google Advanced Data Analytics Professional Certified, and Google Project Management (Scrum Master).
 
 ---
 
@@ -42,7 +42,7 @@
 
 | Domain | Technologies |
 |---|---|
-| **Core Languages** | `Python 3.14`, `TypeScript`, `JavaScript`, `SQL` |
+| **Core Languages** | `Python 3.14`, `C`, `TypeScript`, `JavaScript`, `SQL` |
 | **Data Science & ML** | `DuckDB OLAP`, `PyTorch`, `HuggingFace Transformers`, `BERT`, `Intel OpenVINO`, `Scikit-learn`, `LightGBM`, `CatBoost`, `XGBoost`, `Optuna`, `Pandas`, `NumPy`, `SHAP` |
 | **Data Engineering** | `Data Modeling`, `ETL Pipelines`, `PostgreSQL 17`, `Exploratory Data Analysis (EDA)`, `Supabase Pooler` |
 | **Agentic AI & LLMs** | `LangGraph`, `LangChain`, `Multi-Agent State Graphs`, `Self-Healing Loops`, `AST Sandboxing` |
