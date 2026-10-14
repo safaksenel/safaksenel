@@ -136,5 +136,5 @@
 ---
 
 <div align="center">
-  <sub>Designed & engineered by <b>Ahmet Şafak Şenel</b> • Data Scientist & Computer Engineer</sub>
+  <sub>Designed & engineered by <b>Şafak Şenel</b> • Data Scientist & Computer Engineer</sub>
 </div>
