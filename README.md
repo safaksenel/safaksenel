@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Ahmet Şafak Şenel 👋
+# Hi there, I'm  Şafak Şenel 👋
 ### *Python Engineer • Data Scientist • Automation & Distributed Scraping Specialist*
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=650&lines=Real-Time+Computer+Vision+%26+Video+Analytics;Agentic+AI+%26+Multi-Agent+Systems+(LangGraph);Python+3.14+%26+Modern+Async+Architecture;22+Fine-Tuned+Turkish+BERT+Models+(FLO+Group);DuckDB+OLAP+%26+Production+MLOps+APIs;Distributed+Web+Scraping+%26+Automation)](https://git.io/typing-svg)
