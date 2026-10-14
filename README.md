@@ -1,9 +1,9 @@
 <div align="center">
 
 # Hi there, I'm Şafak Şenel 👋
-### *Python Engineer • Data Scientist • Automation & Distributed Scraping Specialist*
+### *Data Scientist • Machine Learning Engineer • Computer Engineer*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=650&lines=Real-Time+Computer+Vision+%26+Video+Analytics;Agentic+AI+%26+Multi-Agent+Systems+(LangGraph);Python+3.14+%26+Modern+Async+Architecture;22+Fine-Tuned+Turkish+BERT+Models+(FLO+Group);DuckDB+OLAP+%26+Production+MLOps+APIs;Distributed+Web+Scraping+%26+Automation)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=650&lines=Data+Scientist+%26+Computer+Engineer;22+Fine-Tuned+Turkish+BERT+Models+(FLO+Group);YZTA+5.0+Datathon+Top+%2510+Nationwide;Agentic+AI+%26+DuckDB+OLAP+(LangGraph);Real-Time+Computer+Vision+%26+Video+Analytics;Production+MLOps+APIs+%26+Python+3.14)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/%C5%9Fafak-%C5%9Fenel-70a633319/">
@@ -26,11 +26,11 @@
 
 ### 👨‍💻 About Me / Hakkımda
 
-- 🔭 **Specialization:** Building real-time computer vision pipelines, autonomous multi-agent systems, high-throughput Python automation backends, NLP deep learning pipelines, and production MLOps services.
-- 👁️ **Computer Vision & Video Analytics:** Architecting real-time edge vision pipelines with **ByteTRACK 2-stage IoU tracking**, polygon **geofencing intrusion alerts**, and 20 Hz **WebSocket telemetry streaming**.
-- 🤖 **Agentic AI & Analytics:** Architecting stateful **LangGraph multi-agent copilots** with **DuckDB memory OLAP** engines, AST-verified Python execution sandboxes, and autonomous self-healing reflection loops.
+- 🔭 **Specialization:** Machine Learning, NLP (BERT & Intel OpenVINO), Agentic AI (LangGraph & DuckDB OLAP), Computer Vision (ByteTRACK), and production MLOps systems.
 - 🧠 **Enterprise NLP Experience:** Trained & deployed **22 dual-layer Turkish BERT models** for **FLO Group** customer feedback triaging, optimized with **Intel OpenVINO** for 4x CPU inference speedup (F1: 0.892).
 - 🏆 **Competition Achievement:** Ranked in the **Top 10% nationwide** in the Google & BTK Akademi **Datathon 2026** with a multi-modal tabular + NLP Stacking Ensemble.
+- 🤖 **Agentic AI & Analytics:** Architecting stateful **LangGraph multi-agent copilots** with **DuckDB memory OLAP** engines, AST-verified Python execution sandboxes, and autonomous self-healing reflection loops.
+- 👁️ **Computer Vision & Video Analytics:** Architecting real-time edge vision pipelines with **ByteTRACK 2-stage IoU tracking**, polygon **geofencing intrusion alerts**, and 20 Hz **WebSocket telemetry streaming**.
 - ⚡ **Automation & Crawling:** Architecting autonomous scrapers bypassing Cloudflare & Turnstile shields using Python 3.14, Selenium 4, Playwright, and Crawl4AI.
 - 🎓 **Continuous Learning:** Pair-programming with modern AI tooling, clean architecture, and type-safe systems (Pydantic v2, TypeScript).
 
@@ -43,9 +43,9 @@
 | Domain | Technologies |
 |---|---|
 | **Core Languages** | `Python 3.14`, `TypeScript`, `JavaScript`, `SQL` |
-| **Computer Vision & Video Analytics** | `OpenCV`, `ByteTRACK Algorithm`, `Geofencing / Ray-Casting`, `Real-Time Video Streaming (MJPEG/WebSockets)` |
-| **Agentic AI & LLMs** | `LangGraph`, `LangChain`, `Multi-Agent State Graphs`, `Self-Healing Loops`, `AST Sandboxing` |
 | **Data Science & ML** | `DuckDB OLAP`, `PyTorch`, `HuggingFace Transformers`, `BERT`, `Intel OpenVINO`, `Scikit-learn`, `LightGBM`, `CatBoost`, `XGBoost`, `Optuna`, `Pandas`, `NumPy`, `SHAP` |
+| **Agentic AI & LLMs** | `LangGraph`, `LangChain`, `Multi-Agent State Graphs`, `Self-Healing Loops`, `AST Sandboxing` |
+| **Computer Vision & Video Analytics** | `OpenCV`, `ByteTRACK Algorithm`, `Geofencing / Ray-Casting`, `Real-Time Video Streaming (MJPEG/WebSockets)` |
 | **Backend & APIs** | `FastAPI`, `Django 6.1`, `Django Ninja`, `Pydantic v2`, `Psycopg 3`, `RESTful APIs`, `WebSockets` |
 | **Scraping & Automation** | `Selenium 4`, `Crawl4AI`, `Playwright`, `BeautifulSoup4`, `Watchdog Daemons` |
 | **Web & Frontend** | `Next.js 16`, `React 19`, `Tailwind CSS v4`, `Motion (motion/react)`, `GSAP`, `Lenis` |
@@ -60,33 +60,9 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>👁️ <a href="https://github.com/safaksenel/edge-vision-analytics-pipeline">Edge Vision Analytics Pipeline</a></h3>
-      <p>Real-time edge computer vision pipeline featuring ByteTRACK 2-stage IoU association, polygon geofencing intrusion detection, EMA speed analytics, and 20 Hz WebSocket / MJPEG streaming.</p>
-      <p><b>Tech:</b> <code>OpenCV</code>, <code>ByteTRACK</code>, <code>FastAPI</code>, <code>WebSockets</code>, <code>Python 3.14</code>, <code>Docker</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/safaksenel/agentic-datascience-copilot">Agentic Data Science Copilot</a></h3>
-      <p>Autonomous multi-agent copilot powered by LangGraph state graphs, DuckDB in-memory OLAP analytics, AST-verified Python sandbox, and self-healing reflection loops.</p>
-      <p><b>Tech:</b> <code>LangGraph</code>, <code>DuckDB OLAP</code>, <code>FastAPI</code>, <code>Streamlit</code>, <code>Python 3.14</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏥 <a href="https://github.com/safaksenel/mhrs-appointment-automation">MHRS Appointment Automation</a></h3>
-      <p>Automated Turkish Ministry of Health (MHRS) appointment finder with e-Devlet gateway authentication, dynamic DOM scroll, and instant HTML email alerts via SMTP.</p>
-      <p><b>Tech:</b> <code>Python 3.14</code>, <code>Selenium 4</code>, <code>Docker</code>, <code>Rich CLI</code></p>
-    </td>
-    <td width="50%" valign="top">
       <h3>🧠 <a href="https://github.com/safaksenel/NLP-BERT">FLO Group Turkish BERT NLP</a></h3>
       <p>Enterprise two-tier Turkish BERT customer complaint triage system. 22 fine-tuned models accelerated 4x with Intel OpenVINO on CPU with Tkinter desktop GUI.</p>
       <p><b>Tech:</b> <code>PyTorch</code>, <code>Transformers</code>, <code>OpenVINO</code>, <code>Tkinter</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📊 <a href="https://github.com/safaksenel/Telco-Customer-Churn">Telco Churn MLOps & REST API</a></h3>
-      <p>End-to-end MLOps pipeline serving a Soft Voting Ensemble (0.8422 ROC-AUC) over sub-millisecond FastAPI endpoints containerized on Docker.</p>
-      <p><b>Tech:</b> <code>FastAPI</code>, <code>LightGBM</code>, <code>CatBoost</code>, <code>Docker</code></p>
     </td>
     <td width="50%" valign="top">
       <h3>🏆 <a href="https://github.com/safaksenel/datathon-career-success-prediction">Datathon 2026 Solution (Top 10%)</a></h3>
@@ -96,14 +72,38 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📁 <a href="https://github.com/safaksenel/smart-file-organizer-daemon">Smart File Organizer Daemon</a></h3>
-      <p>Event-driven filesystem watcher with Watchdog, automated unicode character normalization, collision-free renaming, and structured audit logs.</p>
-      <p><b>Tech:</b> <code>Python 3.14</code>, <code>Watchdog</code>, <code>JSON Config</code>, <code>Pytest</code></p>
+      <h3>🤖 <a href="https://github.com/safaksenel/agentic-datascience-copilot">Agentic Data Science Copilot</a></h3>
+      <p>Autonomous multi-agent copilot powered by LangGraph state graphs, DuckDB in-memory OLAP analytics, AST-verified Python sandbox, and self-healing reflection loops.</p>
+      <p><b>Tech:</b> <code>LangGraph</code>, <code>DuckDB OLAP</code>, <code>FastAPI</code>, <code>Streamlit</code>, <code>Python 3.14</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 <a href="https://github.com/safaksenel/Telco-Customer-Churn">Telco Churn MLOps & REST API</a></h3>
+      <p>End-to-end MLOps pipeline serving a Soft Voting Ensemble (0.8422 ROC-AUC) over sub-millisecond FastAPI endpoints containerized on Docker.</p>
+      <p><b>Tech:</b> <code>FastAPI</code>, <code>LightGBM</code>, <code>CatBoost</code>, <code>Docker</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>👁️ <a href="https://github.com/safaksenel/edge-vision-analytics-pipeline">Edge Vision Analytics Pipeline</a></h3>
+      <p>Real-time edge computer vision pipeline featuring ByteTRACK 2-stage IoU association, polygon geofencing intrusion detection, EMA speed analytics, and 20 Hz WebSocket / MJPEG streaming.</p>
+      <p><b>Tech:</b> <code>OpenCV</code>, <code>ByteTRACK</code>, <code>FastAPI</code>, <code>WebSockets</code>, <code>Python 3.14</code>, <code>Docker</code></p>
     </td>
     <td width="50%" valign="top">
       <h3>🌐 <a href="https://portfolio-q663.vercel.app">Developer Portfolio Website</a> (<a href="https://github.com/safaksenel/portfolio">Code</a>)</h3>
       <p>Awwwards-inspired personal portfolio platform built with Next.js 16, React 19, Tailwind CSS v4, Motion, Django 6.1, and Supabase PostgreSQL 17.</p>
       <p><b>Tech:</b> <code>Next.js 16</code>, <code>Django 6.1</code>, <code>Supabase</code>, <code>Tailwind v4</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏥 <a href="https://github.com/safaksenel/mhrs-appointment-automation">MHRS Appointment Automation</a></h3>
+      <p>Automated Turkish Ministry of Health (MHRS) appointment finder with e-Devlet gateway authentication, dynamic DOM scroll, and instant HTML email alerts via SMTP.</p>
+      <p><b>Tech:</b> <code>Python 3.14</code>, <code>Selenium 4</code>, <code>Docker</code>, <code>Rich CLI</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📁 <a href="https://github.com/safaksenel/smart-file-organizer-daemon">Smart File Organizer Daemon</a></h3>
+      <p>Event-driven filesystem watcher with Watchdog, automated unicode character normalization, collision-free renaming, and structured audit logs.</p>
+      <p><b>Tech:</b> <code>Python 3.14</code>, <code>Watchdog</code>, <code>JSON Config</code>, <code>Pytest</code></p>
     </td>
   </tr>
   <tr>
@@ -136,5 +136,5 @@
 ---
 
 <div align="center">
-  <sub>Designed & engineered by <b>Ahmet Şafak Şenel</b> • Built with passion for robust software</sub>
+  <sub>Designed & engineered by <b>Ahmet Şafak Şenel</b> • Data Scientist & Computer Engineer</sub>
 </div>
