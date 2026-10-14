@@ -80,6 +80,18 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <h3>📁 <a href="https://github.com/safaksenel/smart-file-organizer-daemon">Smart File Organizer Daemon</a></h3>
+      <p>Event-driven filesystem watcher with Watchdog, automated unicode character normalization, collision-free renaming, and structured audit logs.</p>
+      <p><b>Tech:</b> <code>Python 3.14</code>, <code>Watchdog</code>, <code>JSON Config</code>, <code>Pytest</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🐍 <a href="https://github.com/safaksenel/retro-snake-arcade">Retro Snake Arcade (Cyberpunk)</a></h3>
+      <p>Modern dark-themed Snake arcade with persistent high scores, dynamic speed curves, timed Golden Apple power-ups, and WASD controls.</p>
+      <p><b>Tech:</b> <code>Python</code>, <code>Turtle Graphics</code>, <code>OOP</code>, <code>Pytest</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>🌐 <a href="https://github.com/safaksenel/portfolio">Developer Portfolio Monorepo</a></h3>
       <p>Awwwards-inspired personal portfolio monorepo built with Next.js 16, React 19, Tailwind CSS v4, Motion, Django 6.1, and Supabase PostgreSQL 17.</p>
       <p><b>Tech:</b> <code>Next.js 16</code>, <code>Django 6.1</code>, <code>Supabase</code>, <code>Tailwind v4</code></p>
