@@ -3,7 +3,7 @@
 # Hi there, I'm Şafak Şenel 👋
 ### *Data Scientist • Machine Learning Engineer • Computer Engineer*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=650&lines=Data+Scientist+%26+Computer+Engineer;DataCamp+Associate+Data+Engineer;Google+Advanced+Data+Analytics+Professional;22+Fine-Tuned+Turkish+BERT+Models+(FLO+Group);YZTA+5.0+Datathon+Top+%2510+Nationwide;Agentic+AI+%26+DuckDB+OLAP+(LangGraph);Real-Time+Computer+Vision+%26+Video+Analytics;Production+MLOps+APIs+%26+Python+3.14)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=650&lines=Data+Scientist+%26+Computer+Engineer;DataCamp+Associate+Data+Engineer;Google+Advanced+Data+Analytics+Professional;22+Fine-Tuned+Turkish+BERT+Models+(FLO+Group);YZTA+5.0+Datathon+Multi-Modal+Stacking;Agentic+AI+%26+DuckDB+OLAP+(LangGraph);Real-Time+Computer+Vision+%26+Video+Analytics;Production+MLOps+APIs+%26+Python+3.14)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/%C5%9Fafak-%C5%9Fenel-70a633319/">
@@ -29,7 +29,7 @@
 - 🔭 **Specialization:** Machine Learning, Data Engineering, NLP (BERT & Intel OpenVINO), Agentic AI (LangGraph & DuckDB OLAP), Computer Vision (ByteTRACK), and production MLOps systems.
 - 🏅 **Certified Data Engineer:** Certified as **Associate Data Engineer** by **DataCamp** (`DEA0011477137123`) covering advanced SQL architecture, ETL pipeline engineering, and exploratory data analysis.
 - 🧠 **Enterprise NLP Experience:** Trained & deployed **22 dual-layer Turkish BERT models** for **FLO Group** customer feedback triaging, optimized with **Intel OpenVINO** for 4x CPU inference speedup (F1: 0.892).
-- 🏆 **Competition Achievement:** Ranked in the **Top 10% nationwide** in the Google & BTK Akademi **Datathon 2026** with a multi-modal tabular + NLP Stacking Ensemble.
+- 🏆 **Datathon Solution:** Built an end-to-end multi-modal machine learning pipeline for the Google & BTK Akademi **Datathon 2026** combining tabular student data with mentor NLP text via Stacking Ensemble regression (RMSE: 0.1418).
 - 🤖 **Agentic AI & Analytics:** Architecting stateful **LangGraph multi-agent copilots** with **DuckDB memory OLAP** engines, AST-verified Python execution sandboxes, and autonomous self-healing reflection loops.
 - 👁️ **Computer Vision & Video Analytics:** Architecting real-time edge vision pipelines with **ByteTRACK 2-stage IoU tracking**, polygon **geofencing intrusion alerts**, and 20 Hz **WebSocket telemetry streaming**.
 - 🎓 **Continuous Learning & Systems:** Admitted to **Ecole 42 Istanbul Core Curriculum (Ana Eğitim)** starting August 3, 2024 (deep dive into C & Python, low-level architecture, dynamic memory & data structures), Google Advanced Data Analytics Professional Certified, and Google Project Management (Scrum Master).
@@ -79,7 +79,7 @@
       <p><b>Tech:</b> <code>PyTorch</code>, <code>Transformers</code>, <code>OpenVINO</code>, <code>Tkinter</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🏆 <a href="https://github.com/safaksenel/datathon-career-success-prediction">Datathon 2026 Solution (Top 10%)</a></h3>
+      <h3>🏆 <a href="https://github.com/safaksenel/datathon-career-success-prediction">Datathon 2026 Solution</a></h3>
       <p>Google & BTK Akademi competition solution combining tabular features with mentor feedback NLP text via Stacking Ensemble regression.</p>
       <p><b>Tech:</b> <code>LightGBM</code>, <code>CatBoost</code>, <code>NLP TF-IDF</code>, <code>Optuna</code></p>
     </td>
